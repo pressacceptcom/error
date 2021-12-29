@@ -1,5 +1,5 @@
 tool
-class_name PressAccept_Comparator_Test_Utilities
+class_name PressAccept_Error_Test_Utilities
 
 # |=======================================|
 # |                                       |

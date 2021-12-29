@@ -5,7 +5,7 @@ extends 'res://addons/gut/test.gd'
 # |---------|
 
 # see test/Utilities.gd
-var TestUtilities : Script = PressAccept_Comparator_Test_Utilities
+var TestUtilities : Script = PressAccept_Error_Test_Utilities
 # shorthand for our library class
 var Exception     : Script = PressAccept_Error_Exception
 
