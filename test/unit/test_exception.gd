@@ -13,6 +13,7 @@ var Exception     : Script = PressAccept_Error_Exception
 # | Tests |
 # |-------|
 
+
 func test_create() -> void:
 
 	var exception: PressAccept_Error_Exception = Exception.create(
