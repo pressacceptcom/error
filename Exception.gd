@@ -160,7 +160,7 @@ func __output(
 		prefix   : String,
 		tab_char : String = "\t") -> String:
 
-	var ret: String = prefix + __title() + ":\n"
+	var ret: String = "\n" + prefix + __title() + ":\n"
 	ret += prefix + tab_char + "Code: " + str(code) + "\n"
 	ret += prefix + tab_char + "Message: " + message + "\n"
 	ret += prefix + tab_char + "Timestamp: " + str(time) + "\n"
